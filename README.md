@@ -1,5 +1,5 @@
 Hi,
-I mostly use Gitlab, I am here to report bugs on projects hosted on Github.
+I mostly use Codeberg, I am here to report bugs on projects hosted here.
 
 <!---
 - 👋 Hi, I’m @cyanescent
